@@ -17,8 +17,8 @@
 ## ⚙️ Установка и запуск  
 1. Клонируйте репозиторий:  
 ```bash 
-git clone https://github.com/your-username/air-rps.git
-cd air-rps
+git clone https://github.com/CandyClauds/RockPaperScissors_cv.git
+cd RockPaperScissors_cv
 ```
 
 2. Установите зависимости:  
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 3. Запустите приложение:  
 ```bash 
-python rps_game.py
+python rockpaperscissors.py
 ```
 
 4. Правила позиционирования:  
